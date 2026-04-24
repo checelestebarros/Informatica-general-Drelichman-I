@@ -1,0 +1,103 @@
+<html>
+<head>
+    <title>Plan de Viaje a España - 20 Días</title>
+</head>
+<body>
+
+    <center>
+        <h1>PLANIFICACIÓN DE VIAJE: ESPAÑA 2026</h1>
+        <p><b>Madrid - Sevilla - Barcelona</b></p>
+        <hr>
+    </center>
+
+    <h2>1. Resumen del Presupuesto (Total: 4.500 EUR)</h2>
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>Concepto</th>
+            <th>Descripción</th>
+            <th>Costo Estimado</th>
+        </tr>
+        <tr>
+            <td>Alojamiento</td>
+            <td>Hoteles 3 y 4 estrellas (19 noches)</td>
+            <td>2.200 &euro;</td>
+        </tr>
+        <tr>
+            <td>Alimentación</td>
+            <td>Desayuno, Almuerzo y Cena (60&euro;/día)</td>
+            <td>1.200 &euro;</td>
+        </tr>
+        <tr>
+            <td>Transporte</td>
+            <td>Trenes AVE, Vuelos internos y Metro</td>
+            <td>500 &euro;</td>
+        </tr>
+        <tr>
+            <td>Actividades</td>
+            <td>Entradas a monumentos y museos</td>
+            <td>600 &euro;</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2>2. Cronograma Detallado</h2>
+
+    <h3>Etapa 1: Madrid y Alrededores (Días 1 a 6)</h3>
+    <ul>
+        <li><b>Día 1:</b> Llegada a Madrid y paseo por la Puerta del Sol.</li>
+        <li><b>Día 2:</b> Museo del Prado y Parque del Retiro.</li>
+        <li><b>Día 3:</b> Palacio Real y Catedral de la Almudena.</li>
+        <li><b>Día 4:</b> Excursión en tren a <u>Toledo</u> (Ciudad Imperial).</li>
+        <li><b>Día 5:</b> Museo Reina Sofía y compras en Gran Vía.</li>
+        <li><b>Día 6:</b> Excursión a <u>Segovia</u> (Acueducto y Alcázar).</li>
+    </ul>
+
+    <h3>Etapa 2: Sevilla y Córdoba (Días 7 a 12)</h3>
+    <ul>
+        <li><b>Día 7:</b> Viaje en AVE a Sevilla y check-in.</li>
+        <li><b>Día 8:</b> Catedral de Sevilla, Giralda y Plaza de España.</li>
+        <li><b>Día 9:</b> Real Alcázar y paseo por el Barrio de Santa Cruz.</li>
+        <li><b>Día 10:</b> Excursión de día completo a <u>Córdoba</u> (Mezquita-Catedral).</li>
+        <li><b>Día 11:</b> Barrio de Triana y espectáculo de Flamenco.</li>
+        <li><b>Día 12:</b> Mañana de relax y viaje hacia Barcelona (Vuelo o AVE).</li>
+    </ul>
+
+    <h3>Etapa 3: Barcelona y Costa (Días 13 a 20)</h3>
+    <ul>
+        <li><b>Día 13:</b> Llegada a Barcelona y paseo por Las Ramblas.</li>
+        <li><b>Día 14:</b> La Sagrada Família y Park Güell (Gaudí).</li>
+        <li><b>Día 15:</b> Barrio Gótico, Catedral y Museo Picasso.</li>
+        <li><b>Día 16:</b> Casa Batlló y La Pedrera en Paseo de Gracia.</li>
+        <li><b>Día 17:</b> Excursión a la montaña de <u>Montserrat</u>.</li>
+        <li><b>Día 18:</b> Playa de la Barceloneta y Puerto Olímpico.</li>
+        <li><b>Día 19:</b> Montjuïc, Fuente Mágica y cena de despedida.</li>
+        <li><b>Día 20:</b> Compras de último momento y traslado al aeropuerto.</li>
+    </ul>
+
+    <hr>
+
+    <h2>3. Recomendaciones Generales</h2>
+    <p>
+        1. <b>Reservas:</b> Compre las entradas para la Sagrada Família y el Alcázar con al menos 3 semanas de antelación.<br>
+        2. <b>Transporte:</b> El tren de alta velocidad (AVE) es la mejor opción entre Madrid y Sevilla.<br>
+        3. <b>Gastronomía:</b> No olvide probar el chocolate con churros en Madrid y el salmorejo en Andalucía.
+    </p>
+
+    <center>
+        <p><small>Documento generado para fines de planificación de viaje personal.</small></p>
+    </center>
+
+</body>
+</html>
+"""
+
+# Nombre del archivo
+output_pdf = "itinerario-viaje-espana-20-dias-v2.pdf"
+temp_html = "itinerario_v2.html"
+
+# Guardar HTML y convertir a PDF
+with open(temp_html, "w", encoding="utf-8") as f:
+    f.write(html_content)
+
+HTML(temp_html).write_pdf(output_pdf)
