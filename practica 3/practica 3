@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentación personal</title>
+</head>
+<body>
+    <h1>Celeste Barros</h1>
+    <h2>¿Quién soy?</h2>
+    <P>¡Buenas! me llamo Celeste tengo 20 años, estudio artes multimediales y artes visuales, ambas en la <strong>UNA</strong></P>
+    <p>Vivo con mis 2 gatos, <em>Darth Vader y Cacheton</em> aunque yo prefiero llamarlos "el negrito" y "el gordo". <br> Cuando no estoy en alguna de las dos facus me gusta pasar tiempo con mi novio Franco, también me gusta leer, especialmente sobre politica.</p>
+    <h3> Mis pelis y series favoritas son: </h3>
+     <p> Star wars episodio III <em> "La venganza de los Sith" </em></p>
+      <p> Berserk </p>
+     <p> El señor de los anillos <em> La trilogia completa </em></p>
+
+  <p>
+        Viví una parte de mi vida en <strong>Coghlan</strong> y también en 
+        <strong>Juan Bautista Alberdi</strong> (Tucumán). <br>
+        Hoy en día vivo en <strong>San Cristóbal</strong> junto a mis gatos.
+    </p>
+    <!-- Declaracion de uso de IA: Esta pagina fue creada con ayuda de IA -->
+
+</html>
