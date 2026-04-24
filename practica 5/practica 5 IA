@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Práctica 4</title>
+</head>
+<body>
+
+<h1>Agenda</h1>
+<h2>Cómo organizo mi semana en el mes de abril</h2>
+
+<h3>Lunes</h3>
+<ol> 
+    <li>10:00 - 13:00 Ir a clases de Informática General</li>
+    <li>13:30 Llegar a casa y preparar el almuerzo</li>
+    <li>15:00 Chequear el EVAed y mi Gmail</li>
+    <li>15:15 - 17:00 Trabajo</li>
+    <li>17:00 - 18:00 Merienda</li>
+    <li>18:00 - 22:00 Volver a trabajar</li>
+    <li>22:00 Cenar y descansar</li>
+</ol>
+<p>
+    Los <strong>lunes</strong> son días tranquilos, ya que trabajo desde casa.
+    Solo tengo que ir a clase y luego continuar con mis tareas.
+</p>
+
+<hr>
+
+<h3>Martes</h3>
+<p>
+    Los <strong>martes</strong> no curso ninguna materia, así que mi día es más flexible:
+</p>
+<ul> 
+    <li>Despertarme y trabajar en proyectos personales</li>
+    <li>Trabajar</li>
+    <li>Terminar tareas pendientes</li>
+    <li>Repasar contenidos para clases</li>
+</ul>
+
+<hr>
+
+<h3>Miércoles</h3>
+<ol>
+    <li>11:00 - 14:00 Clases de Sistemas de Representación</li>
+    <li>14:30 - 17:30 Volver a casa, cocinar y adelantar tareas</li>
+    <li>18:00 - 23:00 Clases de Artes Multimediales</li>
+    <li>23:00 Volver a casa, cenar y descansar</li>
+</ol> 
+<p>
+    Los <strong>miércoles</strong> son los días más movidos, aunque a veces se hacen más llevaderos.
+</p>
+
+<hr>
+
+<h3>Jueves</h3>
+<ol>
+    <li>10:00 - 13:00 Clases de Lenguaje Visual</li>
+    <li>13:00 - 17:00 Clases de Escenografía</li>
+    <li>17:30 Llegar a casa, revisar el Gmail y trabajar</li>
+</ol> 
+<p>
+    Cuando llego a casa suelo trabajar mientras miro alguna serie 
+    y también intento adelantar tareas.
+</p>
+
+<hr>
+
+<h3>Viernes</h3>
+<p>
+    Los <strong>viernes</strong> tampoco curso, así que aprovecho para trabajar,
+    hacer tareas o cocinar algo para el fin de semana.
+</p>
+<!-- Declaracion de uso de IA: Esta pagina fue creada enteramete con IA -->
+</body>
+</html>
