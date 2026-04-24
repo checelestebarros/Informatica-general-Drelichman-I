@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vacaciones 2027</title>
+</head>
+<body>
+    <h1>Mis vacaciones en 2027</h1>
+    <h2> Destino: España </h2>
+    <h3> Madrid, Barcelona y Sevilla </h3>
+    <h5> Fecha: 10/01 al 20/01 </h5>
+    <hr>
+    <h4> Presupuesto:</h4>
+<ul> 
+        <li>Vuelo: 1.800 €</li>
+        <li>Hotel: 1.200 €</li>
+        <li>Comida: 600 €</li>
+        <li>Transporte: 300 €</li>
+        <li>Actividades: 400 €</li>
+        <li>Extras: 200 €</li>
+        <li>Total: <strong>4.500€</strong> </li>
+</ul>
+<hr> 
+<h4>Itinerario</h4>
+<p><strong>Madrid dias 1-7</strong></p>
+<ol> 
+    <li>Llegada y mini recorrido por los alrededores del hotel</li>
+    <li>Visita al Museo del Prado, Parque del Retiro y Gran Vía</li>
+    <li>Tour por el estadio Santiago Bernabéu, visita al Palacio de Cristal y merienda en Chocolatería San Ginés</li>
+    <li>Dia de compras y paseo por la ciudad</li>
+    <li>Tour al Palacio Real de Madrid y Templo de Debod</li>
+    <li>Escapada a Segovia</li>
+    <li>Cena en Rosi la loca y despedida de Madrid </li>
+</ol>
+<p><strong>Sevilla dias 8-13</strong></p>
+<ol>
+    <li>Llegada y recorrido por la ciudad</li>
+    <li>Visita a la Catedral de Sevilla y el Alcázar de Sevilla</li>
+    <li>Tour por el Río Guadalquivir y cena en un restaurante típico</li>
+    <li>Dia de compras y paseo</li>
+    <li>Visita al Maestranza y al Museo de Arte de Sevilla</li>
+    <li>Despedida de Sevilla</li>
+</ol>
+<p><strong>Barcelona dias 14-20</strong></p> 
+<ol>
+    <li>Llegada y recorrido por la ciudad</li>
+    <li>Visita a la Sagrada Familia, Parque Güell y Casa Batlló</li>
+    <li>Dia de playa: Barceloneta</li>
+    <li>Dia de compras y merienda en Corgi cafe </li>
+    <li>Visita al Museo Picasso y al Mercado de la Boquería</li>
+    <li>Despedida de Barcelona</li>
+</ol>
+<hr>
+<h3>Equipaje</h3>
+<p><em>Importante:</em> Dejar el pasaporte, DNI y tarjetas <strong>a mano</strong> </p>
+<p>Valija:</p>
+<ul> 
+    <li>7 remeras</li>
+    <li>5 pantalones</li>
+    <li>ropa de playa</li>
+    <li>ropa interior + medias</li>
+    <li>1 campera ligera</li>
+</ul>
+<p>Bolso de mano:</p>
+<ul>
+    <li>Pasaporte y DNI</li>
+    <li>Tarjetas</li>
+    <li>Efectivo</li>
+    <li>Cargador y adaptador</li>
+    <li>Auriculares</li>
+    <li>Bolsa de higiene</li>
+    <li>Botella de agua</li>
+</ul>
+
+</body>
+</html>
