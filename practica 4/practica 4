@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> practica 4 </title>
+</head>
+<body>
+    <h1> Agenda </h1>
+    <h2> Como organizo mi semana en el mes de Abril </h2>
+    <h3> <strong> Lunes </strong></h3>
+<ol> 
+    <li> 10:00 - 13:00  Ir a clases en multi a informatica general  </li>
+    <li> 13:30 Llegar a casa y preparar el almuerzo </li>
+    <li> 15:00 - Chequear el EVAed y mi gmail </li>
+    <li> 15:15 - 17:00 Trabajo </li>
+    <li> 17:00 - 18:00 Merienda </li>
+    <li> 18:00 - 22:00 Vuelvo a trabajar
+  <li> 22:00 Cenar y descansar </li>
+
+    <p> Los <strong>lunes</strong> son dias no muy ocupados, ya que trabajo desde mi casa, asi que solamente es ir a clase y trabajar un poco.</p>
+
+</ol>
+<br>
+<hr>
+
+  <h3> <strong> Martes </strong></h3>
+ <p> Los dias  <strong> martes</strong> no curso ninguna materia asi que mi dia se resume en:</p>
+ <ul> 
+    <li> despertarme y trabajar en proyectos personales</li>
+    <li> trabajar </li>
+    <li> terminar tarea para el dia siguiente </li>
+    <li> repasar los contenidos para la clase del miercoles y jueves </li>
+    <!-- en este caso use una lista sin orden ya que los martes no son muy estructurados -->
+     </ul>
+<br> 
+<hr>
+  <h3><strong>Miercoles</strong></h3>
+
+ <ol>
+ <li> 11:00 - 14:00 Ir a clases en visuales, a sistemas de representacion </li>
+ <li> 14:30 - 17:30 Llego a casa, cocino, intento adelantar algo de tarea y me voy a multi </li>
+ <li> 18:00 - 23:00 Clases de nuevo, esta vez Artes multimediales </li>
+ <li> 23:00 Volver a casa, hacer la cena y dormir </li>
+ </ol> 
+ <p>Los<strong> miercoles</strong> son el dia mas movido de la semana pero hay veces que se hacen mas ligeros ya que suelo ver a mi novio un ratito antes de ir a cursar y al salir <3. </p> 
+    <br> 
+    <hr>
+  <h3><strong> Jueves </strong></h3>
+ <ol>
+ <li> 10:00 - 13:00 Ir a clases en visuales a lenguaje visual </li>
+ <li> 13:00 - 17:00 Seguir cursando, ahora toca escenografia </li>
+ <li> 17:30 LLego a casa por fin y reviso mi gmail y me pongo a trabajar un ratito. </li>
+ </ol> 
+ <p> Una vez que ya estoy en casa suelo trabajar mientras miro alguna serie, sin mucha estructura, tambien intento adelantar tareas y si tengo tiempo leer un ratito. </p>
+<br> 
+<hr>
+   <h3> <strong> Viernes </strong></h3>
+  <p> Los <strong>viernes</strong> tampoco curso asi que suelo trabajar en casa, hacer tarea o cocinar un postre para el fin de semana. </p>
+
+  <!-- use hr (horizontal rule) para delimitar los dias-->
+</body>
+</html>
